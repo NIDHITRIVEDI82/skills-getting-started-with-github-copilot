@@ -52,6 +52,18 @@ activities = {
         "max_participants": 15,
         "participants": ["mia@mergington.edu", "liam@mergington.edu"]
     },
+    "Tennis Team": {
+        "description": "Learn tennis techniques and compete in matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": ["grace@mergington.edu", "henry@mergington.edu"]
+    },
+    "Volleyball Club": {
+        "description": "Build teamwork and volleyball skills through practice and games",
+        "schedule": "Mondays and Wednesdays, 6:00 PM - 7:30 PM",
+        "max_participants": 18,
+        "participants": ["chloe@mergington.edu", "mason@mergington.edu"]
+    },
     # Artistic activities
     "Drama Club": {
         "description": "Act, direct, and participate in school plays",
