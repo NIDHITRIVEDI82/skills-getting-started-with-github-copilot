@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (response.ok) {
         messageDiv.textContent = result.message;
         messageDiv.className = "success";
-        signupForm.reset();
+        signupForm.reset(); 
         // Refresh the activity cards to show updated participants immediately
         fetchActivities();
       } else {
